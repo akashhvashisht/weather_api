@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "628398c1102338229bf3b349"
+  },
+  "time": "current",
+  "key": "88e316ce4c334ada80f94015221605",
+  "q": "London",
+  "aqi": "no",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628398f7102338229bf3b34c"
+  },
+  "time": "forecast",
+  "key": "88e316ce4c334ada80f94015221605",
+  "q": "London",
+  "aqi": "no",
+  "alerts": "no",
+  "days": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62839ce8102338229bf3b350"
+  },
+  "time": "current",
+  "key": "88e316ce4c334ada80f94015221605",
+  "q": "London",
+  "aqi": "no",
+  "__v": 0
+}]

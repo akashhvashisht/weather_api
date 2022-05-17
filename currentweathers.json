@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "62838d42e0a0eedc1f3daf23"
+  },
+  "name": "town",
+  "region": "state",
+  "country": "nation",
+  "lat": "latitude",
+  "lon": "longitude",
+  "tz_id": "Time Zone",
+  "localtime": "Time",
+  "__v": 0
+}]
